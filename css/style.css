@@ -1,0 +1,31 @@
+body {
+    border-top:80px;
+    background-color:lightgrey;
+    width:auto;
+    font-family: 'Lemonada', cursive;
+  }
+  .text-center{
+    text-align:center;
+  }
+  #img-div{
+      width:auto;
+      position: relative;
+      background-color: white;
+  }
+  #image{
+    max-width:100%;
+}
+  #img-caption{
+      padding:10px;
+  }
+  #main li{
+      padding-bottom:10px;
+      text-align:left;
+      width:50%;
+      margin:auto;
+     
+  }
+  #tri-text{
+    width:50%;
+    margin:auto;
+  }
